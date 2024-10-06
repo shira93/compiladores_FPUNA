@@ -1,0 +1,12 @@
+{
+    "nombre": "Juan",
+    "edad": 30,
+    "casado": false,
+    "hijos": ["Ana", "Luis"],
+    "direccion": {
+        "calle": "Av. Principal",
+        "ciudad": "Asuncion"
+    },
+    "activo": true,
+    "saldo": null
+}
